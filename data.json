@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Power of Positive Thinking",
+        "author": "Norman Vincent",
+        "price": "22.99",
+        "genre": "Mental Health",
+        "year": "2003"
+    },
+    {
+        "title": "Sneezy the Snowman",
+        "author": "Maureen Wright",
+        "price": "15.43",
+        "genre": "Early Learning",
+        "year": "2013"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "price": "30,75",
+        "genre": "Literature & Fiction",
+        "year": "2014"
+    }
+]
